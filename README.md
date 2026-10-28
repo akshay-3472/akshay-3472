@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**akshay-3472/akshay-3472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+INTRODUCTION 
+I am a student interested in Marketing, Brand Management, and Consumer Behavior. I am passionate about learning new things, understanding what drives customer decisions, and developing practical skills through campaigns, projects, and hands-on experience.”
+EDUCATION
+Undergraduate : Bachelors Of Arts(Economics and Political Science)
+College       : P.G.D.A.V. College , University Of Delhi
+Year          :2026
+SKILLS
+Python
+Excel
+CERTIFICATIONS
+International Business And Finance
+INTREST
+Digital Markting
+Business Analytics
+Market Research
+PROFESSIONAL LINK
+Linkedin- www.linkedin.com/in/akshay-kumar-5a14bb263
